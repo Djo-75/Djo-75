@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Jordan Pecquet</h1>
 <h3 align="center">A wannabe developer from Paris (FR)</h3>
 
-- 🌱 I’m currently learning **diverse programming languages (React, Rails, JS) and tools**
+- 🌱 I’m currently learning diverse programming tools & languages such as React, Ruby on Rails or Javascript.
 
-- ⚡ Fun fact **I'm a sports enthusiast and music addict**
+- ⚡ Fun facts: I'm a sports enthusiast and music addict!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
